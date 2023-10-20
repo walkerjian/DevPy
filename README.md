@@ -67,8 +67,8 @@ Chapter 30: LLMs (Language Learning Models)
 
 To get started with the notebooks:
 
-1. Clone the repository: `git clone https://github.com/your_username/repository_name.git`
-2. Navigate to the repository: `cd repository_name`
+1. Clone the repository: `git clone https://github.com/walkerjian/DevPy/`
+2. Navigate to the repository: `cd DevPy`
 3. Launch Jupyter Notebook or Jupyter Lab and open the desired notebook.
 4. Alternatively, you can run the notebooks directly in Google Colab.
 
@@ -82,8 +82,4 @@ This project is licensed under the MIT License. See [LICENSE](./LICENSE) for mor
 
 ## Acknowledgements
 
-Special thanks to [OpenAI's ChatGPT](https://www.openai.com/chatgpt) for assisting with content creation.
-
----
-
-You can replace placeholders like `your_username` and `repository_name` with appropriate values. Feel free to customize the README to better fit your repository's structure and style.
+Special thanks to [OpenAI's ChatGPT](https://www.openai.com/chatgpt) for assisting with content creation

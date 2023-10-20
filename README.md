@@ -1,9 +1,3 @@
-# DevPy
-Developing Deep Learning Models in Python
-Certainly! Here's a `README.md` for your GitHub repository based on the chapters and content we've discussed:
-
----
-
 # Deep Learning with PyTorch: A Comprehensive Guide
 
 This repository houses the content and code for a comprehensive guide on deep learning using PyTorch. Each chapter focuses on a specific aspect of deep learning, from basics to advanced topics, ensuring a progressive learning curve.
